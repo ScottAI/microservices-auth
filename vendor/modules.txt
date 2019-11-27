@@ -1,12 +1,12 @@
 # github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211
 github.com/DataDog/datadog-go/statsd
+# github.com/ScottAI/crypto v0.0.0-20171126103945-cae678b27eba
+github.com/ScottAI/crypto
 # github.com/SermoDigital/jose v0.0.0-20161205224733-f6df55f235c2
 github.com/SermoDigital/jose/crypto
 github.com/SermoDigital/jose/jws
 github.com/SermoDigital/jose
 github.com/SermoDigital/jose/jwt
-# github.com/building-microservices-with-go/crypto v0.0.0-20170610160335-bd514fa657a3
-github.com/building-microservices-with-go/crypto
 # github.com/go-playground/locales v0.0.0-20170327191450-1e5f1161c641
 github.com/go-playground/locales
 github.com/go-playground/locales/currency

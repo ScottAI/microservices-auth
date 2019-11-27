@@ -1,5 +1,7 @@
 github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211 h1:hOSWYZBOWXZwYN+huYLFKsb4f6uohHgpx6cLlAXOqjA=
 github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
+github.com/ScottAI/crypto v0.0.0-20171126103945-cae678b27eba h1:bkWnFnQlW79kjmSR2QlgH7DFYbRKthFrpSch7jS5evk=
+github.com/ScottAI/crypto v0.0.0-20171126103945-cae678b27eba/go.mod h1:2alFC/Vv00hkQEUtaODo6aZEHmVWSQ8RdQdfi4B/mV8=
 github.com/SermoDigital/jose v0.0.0-20161205224733-f6df55f235c2 h1:vaAJk17N8B8JfRDUhK1vSw3L/TAz8w65M3/RMeNusRE=
 github.com/SermoDigital/jose v0.0.0-20161205224733-f6df55f235c2/go.mod h1:ARgCUhI1MHQH+ONky/PAtmVHQrP5JlGY0F3poXOp/fA=
 github.com/building-microservices-with-go/crypto v0.0.0-20170610160335-bd514fa657a3 h1:3jeybAkCm70Gi9X3o7kWxorYS529g6byxQuXPvseV+U=

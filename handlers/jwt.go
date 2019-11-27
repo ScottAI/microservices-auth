@@ -11,7 +11,7 @@ import (
 	"github.com/DataDog/datadog-go/statsd"
 	"github.com/SermoDigital/jose/crypto"
 	"github.com/SermoDigital/jose/jws"
-	bogcrypto "github.com/building-microservices-with-go/crypto"
+	bogcrypto "github.com/ScottAI/crypto"
 
 	log "github.com/sirupsen/logrus"
 )

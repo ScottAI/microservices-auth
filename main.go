@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/DataDog/datadog-go/statsd"
-	"github.com/building-microservices-with-go/chapter10-services-auth/handlers"
+	"github.com/ScottAI/microservices-auth/handlers"
 	log "github.com/sirupsen/logrus"
 )
 

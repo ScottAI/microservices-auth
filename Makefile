@@ -5,7 +5,7 @@ build_linux:
 	CGO_ENABLED=0 GOOS=linux go build -o auth .
 
 build_docker:
-	docker build -t buildingmicroserviceswithgo/auth:latest .
+	docker build -t wkdljl/auth:latest .
 
 run:
 	go run main.go

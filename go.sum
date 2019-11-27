@@ -1,0 +1,14 @@
+github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211 h1:hOSWYZBOWXZwYN+huYLFKsb4f6uohHgpx6cLlAXOqjA=
+github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
+github.com/SermoDigital/jose v0.0.0-20161205224733-f6df55f235c2 h1:vaAJk17N8B8JfRDUhK1vSw3L/TAz8w65M3/RMeNusRE=
+github.com/SermoDigital/jose v0.0.0-20161205224733-f6df55f235c2/go.mod h1:ARgCUhI1MHQH+ONky/PAtmVHQrP5JlGY0F3poXOp/fA=
+github.com/building-microservices-with-go/crypto v0.0.0-20170610160335-bd514fa657a3 h1:3jeybAkCm70Gi9X3o7kWxorYS529g6byxQuXPvseV+U=
+github.com/building-microservices-with-go/crypto v0.0.0-20170610160335-bd514fa657a3/go.mod h1:FmogkYQuqlkgMu4IEgZs2yBgKc8ItZAxyxZRDT6BVsQ=
+github.com/go-playground/locales v0.0.0-20170327191450-1e5f1161c641 h1:I4ff2nZlLpFVRofYk8c6JdA9rpeI1fuInIQVyUx0MDU=
+github.com/go-playground/locales v0.0.0-20170327191450-1e5f1161c641/go.mod h1:IUMDtCfWo/w/mtMfIE/IG2K+Ey3ygWanZIBtBW0W2TM=
+github.com/go-playground/universal-translator v0.14.1 h1:3mSE3OhExwGhqHGfZYCRXKCj6xNYHoF/3a5XEpMn3Yo=
+github.com/go-playground/universal-translator v0.14.1/go.mod h1:1AnU7NaIRDWWzGEKwgtJRd2xk99HeFyHw3yid4rvQIY=
+github.com/sirupsen/logrus v1.0.0 h1:XM8X4m/9ACaclZMs946FQNEZBZafvToJLTR4007drwo=
+github.com/sirupsen/logrus v1.0.0/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
+gopkg.in/go-playground/validator.v9 v9.3.6 h1:vLZhVuA9KovDCM91FObS87ckbEPPKXGcSKQNbPbtSmQ=
+gopkg.in/go-playground/validator.v9 v9.3.6/go.mod h1:+c9/zcJMFNgbLvly1L1V+PpxWdVbfP1avr/N00E2vyQ=
